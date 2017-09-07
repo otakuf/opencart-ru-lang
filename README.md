@@ -1,2 +1,2 @@
-# opencart-ru-lang
-Opencart russian localizations
+# Opencart russian localizations
+Only lang files from opencart-russia.ru.
