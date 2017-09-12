@@ -1,5 +1,4 @@
 <?php
-// Text
 $_['text_project']       = 'Русское сообщество OpenCart';
 $_['text_documentation'] = 'Документация';
 $_['text_support']       = 'Форум поддержки';

@@ -2,6 +2,7 @@
 // Heading
 $_['heading_title']     = 'Файлы для скачивания';
 
+
 // Text
 $_['text_account']      = 'Личный Кабинет';
 $_['text_downloads']    = 'Файлы для скачивания';
@@ -12,4 +13,3 @@ $_['column_order_id']   = '№ Заказа';
 $_['column_name']       = 'Название';
 $_['column_size']       = 'Размер';
 $_['column_date_added'] = 'Дата добавления';
-
